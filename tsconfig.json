@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "lib": ["es2017"],
+    "outDir": "./build",
+    "skipLibCheck": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "strict": true,
+    "module": "commonjs",
+    "declaration": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}

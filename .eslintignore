@@ -1,0 +1,6 @@
+/build/**
+/coverage/**
+/docs/**
+/tmp/**
+/node_modules/**
+/src/db/**
