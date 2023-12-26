@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/argano/typed-collections.git"
   },
-  "author": "Yusuke Watanabe",
+  "author": "Argano Inc.",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/argano/typed-collections/issues"
